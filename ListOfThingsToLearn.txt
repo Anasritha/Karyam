@@ -1,10 +1,13 @@
 SCM related
-GIT
-GITHUB
-BITBUCKET
+GIT - Done
+GITHUB - Done
+BITBUCKET - Optional
+
+Build
+Maven Build
 
 Technology
+Spring
+Rest API
 SpringBoots
-
-Maven Build
 Kong Gateway
